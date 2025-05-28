@@ -210,7 +210,15 @@ body {
     font-size: 14px;
     color: var(--pink);
 }
-
+.prev-next-btns {
+    display: flex;
+    margin-top: -13vw;
+    gap: 80vw;
+}
+#prev-btn, #next-btn {
+    font-size: 20px;
+    color: var(--white);
+}
 /* TODO PREV-NEXT-BTNS */
 .sec-3 {
     background-color: var(--sec-3-bacg);
@@ -631,7 +639,15 @@ textarea::placeholder {
     font-size: 14px;
     color: var(--pink);
 }
-
+.prev-next-btns {
+    display: flex;
+    margin-top: -10vw;
+    gap: 80vw;
+}
+#prev-btn, #next-btn {
+    font-size: 20px;
+    color: var(--white);
+}
 /* TODO PREV-NEXT-BTNS */
 .sec-3 {
     background-color: var(--sec-3-bacg);
@@ -1145,7 +1161,7 @@ textarea::placeholder {
     font-weight: 500;
     font-size: 24px;
     color: var(--white);
-    width: 90vw;
+    width: 80vw;
     text-align:center;
     font-style: italic;
     line-height: 3rem;
@@ -1166,7 +1182,15 @@ textarea::placeholder {
     font-size: 14px;
     color: var(--pink);
 }
-
+.prev-next-btns {
+    display: flex;
+    margin-top: -5vw;
+    gap: 80vw;
+}
+#prev-btn, #next-btn {
+    font-size: 20px;
+    color: var(--white);
+}
 /* TODO PREV-NEXT-BTNS */
 .sec-3 {
     background-color: var(--sec-3-bacg);
