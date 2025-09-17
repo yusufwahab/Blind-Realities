@@ -38,7 +38,7 @@ body {
     }
 
     .mobile-header-nav {
-       margin-top: 7rem;
+       margin-top: 3rem;
        margin-bottom: -3rem;
     }
   
@@ -488,7 +488,7 @@ body {
     }
 
     .mobile-header-nav {
-       margin-top: 7rem;
+       margin-top: 3rem;
        margin-bottom: -3rem;
     }
   
@@ -1368,7 +1368,7 @@ textarea::placeholder {
     /* box-shadow:  0 0.5px 0px rgba(211, 211, 211, 0.8); */
     margin-left: 2vw;
     margin-bottom: -1vw;
-    margin-top: 6rem;
+    margin-top: 3rem;
     
 }
 
